@@ -1,2 +1,1 @@
-# java-concurrency-note
-java并发知识点总结
+学习的意义，在于过自己想要的生活。
